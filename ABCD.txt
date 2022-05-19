@@ -2,6 +2,7 @@
 #include<conio.h>
 void main()
 {
+printf("HELLO HOW ARE YOU");
 printf("HELLO WORLD");
 printf("HARENDRA");
 }
@@ -10,4 +11,11 @@ Void Sum()
 int a;
 int b;
 printf(a+b);
+}
+void sum()
+{
+int a;
+int b;
+printf(a-b);
+printf(a*b);
 }
