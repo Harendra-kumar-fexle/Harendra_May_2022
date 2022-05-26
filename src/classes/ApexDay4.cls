@@ -5,8 +5,7 @@ public class ApexDay4 {
         //this is comment
         system.debug('hello this is vscode');
         system.debug('hello this is ApexDay4 class');
-
-
+        system.debug('hello apex class');
     }
 
 }
